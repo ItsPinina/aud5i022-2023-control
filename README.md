@@ -19,3 +19,5 @@ inspiracion: proyecto de estudiante del semestre pasado, semáforo de carreras f
 
 * https://github.com/jibbx/AV-ERDDEL
 
+Nos inspiramos tambien en el trabajo que encontramos aca: https://forum.arduino.cc/t/proyecto-semaforo-de-carreras/436772
+
