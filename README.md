@@ -1,7 +1,10 @@
 # aud5i022-2023-control
 
 ## pauta
-
+Integrantes:
+Adrian Vasquez
+Camila Donoso
+Victoria
 - punto base
 - asistencia
 - materiales
