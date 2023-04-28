@@ -7,6 +7,7 @@
 int tiempoON = 1000;
 int tiempoOFF = 100;
 int tiempoONVERDE = 2000;
+int valorPerilla = 0;
 
 // Ingresamos los modos de los pines al codigo
 void setup() {
@@ -16,10 +17,13 @@ void setup() {
   pinMode(4, OUTPUT);
   pinMode(3, OUTPUT);
   pinMode(2, OUTPUT);
+  pinMode(10, OUTPUT);
 }
 
 void loop() {
-
+ 
+ valorPerilla = analogRead(A0);
+ analogWrite(10, valorPerilla / 4);
 //Si se lee 5V del pin 7 pasaran todas estas acciones
   if (digitalRead(7)) {
     digitalWrite(6, HIGH);
