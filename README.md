@@ -2,14 +2,11 @@
 
 ## pauta
 Integrantes:
-Adrian Vasquez
-Camila Donoso
-Victoria
-- punto base
-- asistencia
-- materiales
-- circuito
-- código
+-Adrian Vasquez
+-Camila Donoso
+-Victoria Claveria
+
+
 - imágenes
 - ![alt](PrimeraFoto.jpeg "Poniendo Luces")
 - ![alt](SegundaFoto.jpeg "Configurando Boton")
